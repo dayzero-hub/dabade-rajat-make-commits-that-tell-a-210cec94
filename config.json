@@ -2,7 +2,7 @@
   "shop": "Corner Store",
   "currency": "INR",
   "low_stock_threshold": 5,
-  "show_out_of_stock": false,
+  "show_out_of_stock": true,
   "items": [
     {
       "name": "notebook",
