@@ -1,7 +1,7 @@
 {
   "shop": "Corner Store",
-  "currency": "INR",
-  "low_stock_threshold": 5,
+  "currency": "USD",
+  "low_stock_threshold": 3,
   "show_out_of_stock": true,
   "items": [
     {
